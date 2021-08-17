@@ -1,0 +1,93 @@
+INFO	2021-07-30 13:12:23,113	0	App	[main]	
+########## Banking Mangement ##########
+INFO	2021-07-30 13:12:26,049	2936	App	[main]	
+--------Welcome,1--------
+INFO	2021-07-30 13:12:29,966	6853	App	[main]	Enter your account type to create(E for Employee/C for Customer )
+ERROR	2021-07-30 13:12:37,928	14815	App	[main]	Invalid Type : r
+INFO	2021-07-30 13:16:22,895	0	App	[main]	
+########## Banking Mangement ##########
+INFO	2021-07-30 13:16:29,249	6354	App	[main]	
+--------Welcome,Mubasheer--------
+INFO	2021-07-30 13:16:32,561	9666	App	[main]	Enter your account type to Login(E for Employee/C for Customer)
+ERROR	2021-07-30 13:16:36,200	13305	App	[main]	Invalid Type : E
+INFO	2021-07-30 13:17:13,499	0	App	[main]	
+########## Banking Mangement ##########
+INFO	2021-07-30 13:17:23,062	9563	App	[main]	
+--------Welcome,mubasheer--------
+INFO	2021-07-30 13:17:25,263	11764	App	[main]	Enter your account type to Login(E for Employee/C for Customer)
+ERROR	2021-07-30 13:17:33,943	20444	EmployeeApp	[main]	INVALID!! Please TRY AGAIN! INCORRECT Name/Password
+INFO	2021-07-30 13:17:37,753	24254	App	[main]	Enter your account type to create(E for Employee/C for Customer )
+INFO	2021-07-30 13:18:23,274	69775	App	[main]	Enter your account type to Login(E for Employee/C for Customer)
+INFO	2021-07-30 13:18:33,607	80108	EmployeeApp	[main]	
+########## Login Screen ##########
+INFO	2021-07-30 13:18:33,607	80108	EmployeeApp	[main]	
+########## Personal page for Mubasheer ##########
+INFO	2021-07-30 13:19:31,869	138370	EmployeeApp	[main]	
+# Welcome to View Account section
+INFO	2021-07-30 13:19:45,688	152189	EmployeeApp	[main]	
+# Welcome to Update account Section
+INFO	2021-07-30 13:21:18,710	245211	EmployeeApp	[main]	Mubasheer,Your account Updated Successfully!! on Fri Jul 30 13:21:18 IST 2021
+INFO	2021-07-30 13:21:30,752	257253	EmployeeApp	[main]	
+# Welcome to View all Customer section
+INFO	2021-07-30 13:21:39,600	266101	EmployeeApp	[main]	
+# Welcome to View Customer by Account Number section
+INFO	2021-07-30 13:21:39,601	266102	EmployeeApp	[main]	Enter the Account of customer that U want to view
+ERROR	2021-07-30 13:22:40,506	327007	EmployeeApp	[main]	There is No Customer with this account Number 1
+INFO	2021-07-30 13:22:48,597	335098	EmployeeApp	[main]	
+# Welcome to Update account Section
+INFO	2021-07-30 13:23:09,545	356046	EmployeeApp	[main]	Mubasheer,Your account Updated Successfully!! on Fri Jul 30 13:23:09 IST 2021
+INFO	2021-07-30 13:23:13,154	359655	EmployeeApp	[main]	
+# Logout
+INFO	2021-07-30 13:23:13,155	359656	EmployeeApp	[main]	Logouted Successfully!!
+INFO	2021-07-30 13:23:13,155	359656	App	[main]	
+--------Welcome,mubasheer--------
+INFO	2021-07-30 13:23:22,970	369471	App	[main]	Enter your account type to create(E for Employee/C for Customer )
+INFO	2021-07-30 13:23:57,806	404307	CustomerApp	[main]	Initial balance should be >500,deposit again
+INFO	2021-07-30 13:24:02,712	409213	CustomerApp	[main]	
+Congrats,Mubasheer, your bank account opened successfully!! on Fri Jul 30 13:24:02 IST 2021
+INFO	2021-07-30 13:24:07,932	414433	App	[main]	Enter your account type to Login(E for Employee/C for Customer)
+INFO	2021-07-30 13:24:18,797	425298	CustomerApp	[main]	########## Login Screen ##########
+INFO	2021-07-30 13:24:18,797	425298	CustomerApp	[main]	
+Welcome , Mubasheer
+INFO	2021-07-30 13:24:18,797	425298	CustomerApp	[main]	########## Personal page for Mubasheer ##########
+INFO	2021-07-30 13:24:25,580	432081	CustomerApp	[main]	
+# Welcome to View Balance
+INFO	2021-07-30 13:24:25,583	432084	CustomerApp	[main]	
+ACCOUNT NO:622524235
+INFO	2021-07-30 13:24:25,583	432084	CustomerApp	[main]	TOTAL BALANCE:501
+INFO	2021-07-30 13:24:36,413	442914	CustomerApp	[main]	
+# Welcome to Deposit Section
+INFO	2021-07-30 13:24:36,413	442914	CustomerApp	[main]	Enter amount to Deposit
+INFO	2021-07-30 13:24:45,784	452285	CustomerApp	[main]	
+Excited!
+INFO	2021-07-30 14:46:26,347	0	App	[main]	
+########## Banking Mangement ##########
+INFO	2021-07-30 14:46:26,378	31	App	[main]	
+--------Welcome,null--------
+INFO	2021-07-30 14:47:05,626	0	App	[main]	
+########## Banking Mangement ##########
+INFO	2021-07-30 15:01:29,506	0	App	[main]	
+########## Banking Mangement ##########
+INFO	2021-07-30 15:01:39,087	9581	App	[main]	
+--------Welcome,abbas--------
+INFO	2021-07-30 15:01:43,192	13686	App	[main]	Enter your account type to Login(E for Employee/C for Customer)
+ERROR	2021-07-30 15:01:52,439	22933	EmployeeApp	[main]	INVALID!! Please TRY AGAIN! INCORRECT Name/Password
+INFO	2021-07-30 15:05:19,632	230126	App	[main]	Thanks for using this APP :)
+INFO	2021-07-30 15:51:10,681	0	App	[main]	
+Banking Mangement
+INFO	2021-07-30 15:51:29,730	19049	App	[main]	
+Welcome,abbas
+INFO	2021-07-30 15:51:35,671	24990	App	[main]	Enter your Account type to create
+INFO	2021-07-30 15:51:35,672	24991	App	[main]	
+(E for Employee/C for Customer)
+INFO	2021-07-30 15:53:07,953	117272	CustomerApp	[main]	
+mubasheer, your bank account opened successfully on Fri Jul 30 15:53:07 IST 2021
+INFO	2021-07-30 15:53:17,748	127067	App	[main]	Enter your Account type to create
+INFO	2021-07-30 15:53:17,749	127068	App	[main]	
+(E for Employee/C for Customer)
+INFO	2021-07-30 15:54:13,936	183255	CustomerApp	[main]	Initial balance should be >500,deposit again
+ERROR	2021-07-30 15:54:21,720	191039	CustomerApp	[main]	Accout Already Exists!!
+
+Sorry arun your Account is NOT CREATED successfully!!
+INFO	2021-08-02 19:18:24,974	0	App	[main]	
+Banking Mangement
